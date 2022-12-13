@@ -1,5 +1,11 @@
 {
-  "userId": 1,
-  "id": 1,
-  "title": "Mohit Here Baby"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
